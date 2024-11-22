@@ -1,0 +1,21 @@
+{
+  "name": "North47 - Furness Academy Portal",
+  "short_name": "Furness Portal",
+  "description": "The client portal for Furness Academy ski trips with North47.",
+  "start_url": "/furness-academy",
+  "display": "standalone",
+  "background_color": "#013efc",
+  "theme_color": "#FF4500",
+  "icons": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65c22338331596694fba4061/a87b00fc-5d67-4e8a-bb02-e08421c1effe/a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/65c22338331596694fba4061/a87b00fc-5d67-4e8a-bb02-e08421c1effe/a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
