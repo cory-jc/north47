@@ -2,7 +2,7 @@
   "name": "North47 - Furness Academy Portal",
   "short_name": "Furness Portal",
   "description": "The client portal for Furness Academy ski trips with North47.",
-  "start_url": "/furness-academy",
+  "start_url": "/furness-academy-1",
   "display": "standalone",
   "background_color": "#013efc",
   "theme_color": "#FF4500",
